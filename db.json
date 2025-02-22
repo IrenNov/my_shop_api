@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ноутбук",
+      "status": "available",
+      "price": 49999.99
+    },
+    {
+      "id": 2,
+      "name": "Смартфон",
+      "status": "waiting",
+      "price": 29999.99
+    },
+    {
+      "id": 3,
+      "name": "Планшет",
+      "status": "sold",
+      "price": 19999.99
+    }
+  ]
+}
